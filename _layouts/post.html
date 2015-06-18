@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+{% include naver_d2.html %}
+
+<h3>
+	<a href="{{ page.url }}">{{ page.title }}</a>
+</h3>
+<div class="datepost">{{ page.date | date:"%A, %e %B %Y" }}</div>
+
+<div>
+
+	{{ content }}
+
+  <p><a href="{{ page.enclosure_url }}" rel="nofollow">Yangnuri-episodes 보기</a></p>
+</div>

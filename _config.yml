@@ -1,0 +1,24 @@
+markdown: kramdown
+safe: true
+lsi: false
+pygments: true
+name: "예수의 핏소리(양누리 공동체)"
+description: "Yangnuri-Podcast, 양누리 공동체(Yangnuri mission church)의 설교을 제공합니다."
+url: http://yangnuri2.github.io/
+Yangnuri_url: http://cafe.daum.net/yangnuri-ch
+sns: 
+  twitter: https://twitter.com/o691saza
+  facebook: https://www.facebook.com/yangnuri91
+podcast:
+  feed_url: http://yangnuri2.github.io/podcast.xml
+  copyright: Yangnuri
+  author: "Yangnuri"
+  keyword: "양누리교회,Yangnuri,신승환,설교,교회,양누리,공동체,상담,예수의 핏소리"
+  subtitle: "양누리 공동체(Yangnuri mission church)"
+  owner_name: seung hwan Shin
+  owner_email: o691saza@hanmail.net
+  description: "성령의 능력으로 진리안에서 하나님 나라를 이루는 양누리 교회 공동체. Yangnuri mission church is the community of Jesus followers. The church is forming the kingdom of God with Holy Spirit ability by the bible."
+  image: http://yangnuri2.github.io/images/ylo-1400.jpg
+naver_d2:
+  image: http://yangnuri2.github.io/images/YL-68.jpg
+  url: http://cafe.daum.net/yangnuri-ch
