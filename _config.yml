@@ -2,8 +2,8 @@ markdown: kramdown
 safe: true
 lsi: false
 pygments: true
-name: "예수의 핏소리(양누리 공동체)"
-description: "Yangnuri-Podcast, 양누리 공동체(Yangnuri mission church)의 설교을 제공합니다."
+name: "Y-books (양누리 서원)"
+description: "양누리 공동체(Yangnuri mission church)의 양누리 서원입니다. 신앙생활에 유익한 도서들을 소개하고 나누는 Yangnuri-Podcast입니다."
 url: http://yangnuri3.github.io/
 Yangnuri_url: http://cafe.daum.net/yangnuri-ch
 sns: 
