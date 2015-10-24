@@ -2,8 +2,8 @@ markdown: kramdown
 safe: true
 lsi: false
 pygments: true
-name: "Y-books (양누리 서원)"
-description: "양누리 공동체(Yangnuri mission church)의 양누리 서원입니다. 신앙생활에 유익한 도서들을 소개하고 나누는 Yangnuri-Podcast입니다."
+name: "양누리 어울림(Y-books)"
+description: ""Yangnuri mission Church" 문화선교의 길을 여는 양누리 어울림(Y-books)입니다. 개혁주의 중심으로 신앙도서 소개와 출판및 판매, 교육, 문화여행,양누리 방송 사역을 합니다. https://m.facebook.com/yangnuri91"
 url: http://yangnuri3.github.io/
 Yangnuri_url: http://cafe.daum.net/yangnuri-ch
 sns: 
