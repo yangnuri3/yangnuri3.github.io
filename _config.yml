@@ -1,7 +1,7 @@
 markdown: kramdown
 safe: true
 lsi: false
-pygments: true
+highlighter: rouge
 name: "양누리 어울림(Y-books)"
 description: "Yangnuri mission Church 문화선교의 길을 여는 양누리 어울림(Y-books)입니다. 양누리 방송 사역과 함께 개혁주의 중심으로 신앙도서 소개와 출판및 판매, 문화여행, 교육사역을 합니다. https://m.facebook.com/yangnuri91"
 url: http://yangnuri3.github.io/
